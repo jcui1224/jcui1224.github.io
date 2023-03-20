@@ -14,3 +14,8 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+[Learning Latent Space Energy-Based Prior Model](https://jialicui24.github.io/post/about/)
+
+Bo Pang, Tian Han, Erik Nijkamp, Song-Chun Zhu, and Ying Nian Wu.
+NeurIPS 2020.
