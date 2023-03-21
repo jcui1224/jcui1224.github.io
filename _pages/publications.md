@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[**Joint Latent Space EBM Prior Model for Multi-layer Generator**](https://jcui1224.github.io/hierarchical-joint-ebm-proj/)
+[**Learning Joint Latent Space EBM Prior Model for Multi-layer Generator**](https://jcui1224.github.io/hierarchical-joint-ebm-proj/)
 <br>
 **Jiali Cui**, Tian Han, Ying Nian Wu <br> 
 *IEEE Conference on Computer Vision and Pattern Recognition (CVPR)*, 2023
