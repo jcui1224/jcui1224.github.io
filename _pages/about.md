@@ -16,7 +16,7 @@ redirect_from:
 ### News
 ---
 * Reviewer 2022 (ECCV, AAAI)
-* Reviewer 2023 (CVPR) 
+* Reviewer 2023 (CVPR, NIPS) 
 
 ### Education
 ---
