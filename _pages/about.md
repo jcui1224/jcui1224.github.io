@@ -21,5 +21,5 @@ redirect_from:
 ### Education
 ---
 * B.S. Harbin Institute of Technology, Computer Science, 2015 - 2019
-* M.S. Stevens Institute of Technology, Computer Science, 2019 - 2022
-* Ph.D Stevens Institute of Technology, Computer Science, 2022 - Now
+* M.S. Stevens Institute of Technology, Computer Science, 2019 - 2021
+* Ph.D Stevens Institute of Technology, Computer Science, 2021 - Now
