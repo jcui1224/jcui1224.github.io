@@ -15,9 +15,10 @@ redirect_from:
 * Representation Learning (Hierarchical representation learning, disentanglement learning)
 
 
-### News
+### Reviewers
 ---
-* Reviewer ECCV'22, AAAI'22, CVPR'23, NeurIPS'23
+* ECCV'22, AAAI'22
+* CVPR'23, NeurIPS'23
 
 ### Education
 ---
