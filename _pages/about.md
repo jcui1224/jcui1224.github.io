@@ -19,6 +19,7 @@ redirect_from:
 ---
 * ECCV'22, AAAI'22
 * CVPR'23, NeurIPS'23
+* AAAI'24,
 
 ### Education
 ---
