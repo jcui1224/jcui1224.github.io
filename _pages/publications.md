@@ -24,3 +24,8 @@ author_profile: true
 <br>
 **Jiali Cui**, Ying Nian Wu, Tian Han <br> 
 *IEEE/CVF International Conference on Computer Vision (ICCV)*, 2023
+
+[**Semi-supervised Learning by Latent Space Energy-Based Model of Symbol-Vector Coupling**](https://arxiv.org/pdf/2010.09359.pdf)
+<br>
+Bo Pang, Erik Nijkamp, **Jiali Cui**, Tian Han, Ying Nian Wu <br> 
+*Workshop on I Can’t Believe It’s Not Better (ICBINB) @ NeurIPS*, 2020
