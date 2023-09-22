@@ -15,7 +15,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-[**Learning Energy-based Model via Dual-MCMC Teaching**](https://jcui1224.github.io/dual-MCMC-proj/)
+**Learning Energy-based Model via Dual-MCMC Teaching** (coming soon)
 <br>
 **Jiali Cui**, Tian Han <br> 
 *In Advances in Neural Information Processing Systems (NeurIPS)*, 2023
