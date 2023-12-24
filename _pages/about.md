@@ -10,16 +10,16 @@ redirect_from:
 
 ### Research Interest
 ---
-* Probabilistic Generative Model (Latent variable generative model, Energy-based model)
-* Unsupervised Learning / Semi-supervised Learning (Maximum likelihood learning, Joint learning)
-* Representation Learning (Hierarchical representation learning, disentanglement learning)
+* Probabilistic Generative Model.
+* Unsupervised Learning / Semi-supervised Learning.
+* Representation Learning.
 
 
 ### Reviewers
 ---
 * ECCV'22, AAAI'22
 * CVPR'23, NeurIPS'23
-* AAAI'24, ICLR'24
+* AAAI'24, ICLR'24, CVPR'24, ICML'24
 
 ### Education
 ---
