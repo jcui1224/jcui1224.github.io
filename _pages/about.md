@@ -17,9 +17,9 @@ redirect_from:
 
 ### Reviewers
 ---
-* ECCV'22, AAAI'22
-* CVPR'23, NeurIPS'23
-* AAAI'24, ICLR'24, CVPR'24, ICML'24
+* 2022, ECCV, AAAI
+* 2023, CVPR, NeurIPS
+* 2024, AAAI, ICLR, CVPR, ICML, ECCV
 
 ### Education
 ---
