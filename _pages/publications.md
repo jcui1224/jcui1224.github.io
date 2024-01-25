@@ -15,12 +15,18 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<img align="left" width="200" src="/images/twoMCMC.png" />
+<img align="left" width="280" src="/images/twoMCMC.png" />
+
+<br>
 
 [**Learning Energy-based Model via Dual-MCMC Teaching**](https://jcui1224.github.io/dual-MCMC-proj/)
 <br>
 **Jiali Cui**, Tian Han <br> 
-*In Advances in Neural Information Processing Systems (NeurIPS)*, 2023
+*NeurIPS*, 2023
+
+<br>
+
+---
 
 <br><br>
 
