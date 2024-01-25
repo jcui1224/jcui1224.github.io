@@ -17,7 +17,6 @@ author_profile: true
 
 <img align="left" width="280" src="/images/twoMCMC.png" />
 
-<br>
 
 [**Learning Energy-based Model via Dual-MCMC Teaching**](https://jcui1224.github.io/dual-MCMC-proj/)
 <br>
