@@ -87,7 +87,8 @@ author:
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dDBTlNAAAAAJ&hl=en"
-  email            : "jcui7@stevens.edu"
+  # email            : "jcui7@stevens.edu"
+  email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -115,8 +116,8 @@ author:
   xing             :
   youtube          :
   wikipedia        :
-  resume           : "/files/Jiali_Cui_Resume.pdf"
-#  resume           :
+  # resume           : "/files/Jiali_Cui_Resume.pdf"
+ resume           :
 
 
 # Reading Files
