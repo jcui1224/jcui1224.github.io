@@ -15,7 +15,7 @@ My research interest lies in ***Generative Probabilistic Model***, such as *Ener
 
 Please don't hesitate to contact me for collaboration😊. 
 
-[Email 📧](mailto:jcui7@stevens.edu),    [Resume 📁](https://jcui1224.github.io/files/Jiali_Cui_Resume.pdf),    [Github :octocat:](https://github.com/jcui1224),    [Google Scholar 🎓](https://scholar.google.com/citations?hl=en&user=dDBTlNAAAAAJ)
+[Email 📧](mailto:jcui7@stevens.edu),    [Resume 📁](https://jcui1224.github.io/files/Jiali_Cui_Resume.pdf),    [Google Scholar 🎓](https://scholar.google.com/citations?hl=en&user=dDBTlNAAAAAJ)
 
 ---
 
