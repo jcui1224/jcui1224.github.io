@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dec8f25-2d30-4ddd-8c39-7d025b3394ad" name="Changes" comment="" />
+    <list default="true" id="5dec8f25-2d30-4ddd-8c39-7d025b3394ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/github-nips.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/images/twoMCMC.png" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -63,7 +67,7 @@
       <workItem from="1686247825478" duration="19000" />
       <workItem from="1689379361105" duration="638000" />
       <workItem from="1706153530852" duration="6658000" />
-      <workItem from="1706201068700" duration="1271000" />
+      <workItem from="1706201068700" duration="2190000" />
     </task>
     <servers />
   </component>
