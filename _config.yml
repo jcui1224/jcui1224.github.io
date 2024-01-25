@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jiali Cui"
 title_separator          : "-"
 name                     : &name "Jiali Cui"
-description              : &description "PhD student"
+description              : &description "Make Each Day Count"
 url                      : https://jcui1224.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jcui1224.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Jiali Cui"
   avatar           : "Jcui-head2.jpg"
-  bio              : "PhD student"
-  location         : "Philadelphia, PA"
+  bio              : "Make Each Day Count"
+  location         :
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dDBTlNAAAAAJ&hl=en"
