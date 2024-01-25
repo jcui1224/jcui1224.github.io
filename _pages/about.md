@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+[**My Resume**](https://github.com/jcui1224/jcui1224.github.io/tree/master/files/Jiali_Cui_Resume.pdf)
+
 ### Research Interest
 ---
 * Probabilistic Generative Model.
