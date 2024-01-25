@@ -15,12 +15,14 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-<img align="left" width="200" src="/images/syn_celeba256_supp.png" />
+<img align="left" width="200" src="/images/twoMCMC.png" />
 
 [**Learning Energy-based Model via Dual-MCMC Teaching**](https://jcui1224.github.io/dual-MCMC-proj/)
 <br>
 **Jiali Cui**, Tian Han <br> 
 *In Advances in Neural Information Processing Systems (NeurIPS)*, 2023
+
+<br><br>
 
 [**Learning Hierarchical Features with Joint Latent Space Energy-Based Prior**](https://jcui1224.github.io/hierarchical-representation-ebm-proj/)
 <br>
