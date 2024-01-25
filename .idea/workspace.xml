@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5dec8f25-2d30-4ddd-8c39-7d025b3394ad" name="Changes" comment="" />
+    <list default="true" id="5dec8f25-2d30-4ddd-8c39-7d025b3394ad" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/_includes/author-profile.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/author-profile.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -34,7 +36,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "/Users/jcui7/Github/jcui1224.github.io/_pages",
+    "last_opened_file_path": "/Users/jcui7/Github/jcui1224.github.io/files",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -44,6 +46,7 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/files" />
       <recent name="$PROJECT_DIR$/_pages" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -60,7 +63,7 @@
       <updated>1686247824072</updated>
       <workItem from="1686247825478" duration="19000" />
       <workItem from="1689379361105" duration="638000" />
-      <workItem from="1706153530852" duration="3933000" />
+      <workItem from="1706153530852" duration="4680000" />
     </task>
     <servers />
   </component>
