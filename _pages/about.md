@@ -13,16 +13,20 @@ I am a PhD student at Stevens Institute of Technology, advised by [Dr. Tian Han]
 My research interest lies in ***Generative Probabilistic Model***, such as *Energy-based Model*, *Generator Model*, *Diffusion Probabilistic Model*. My works focus on developing the generative probabilistic framework for ***modelling data distribution*** and ***learning (hierarchical) interpretable representation***. 
 
 
-Please don't hesitate to contact me for collaboration😊.
+Please don't hesitate to contact me for collaboration😊. 
+
+[Email 📧](mailto:jcui7@stevens.edu),    [Resume 📁](https://jcui1224.github.io/files/Jiali_Cui_Resume.pdf)
 
 ---
+
 ### Reviewers
 
 * 2022, ECCV, AAAI
 * 2023, CVPR, NeurIPS
 * 2024, AAAI, ICLR, CVPR, ICML, ECCV
-  
+
 ---
+
 ### Education
 
 
