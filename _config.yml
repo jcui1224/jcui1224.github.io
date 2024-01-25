@@ -83,10 +83,11 @@ author:
   name             : "Jiali Cui"
   avatar           : "Jcui-head2.jpg"
   bio              : "Make Each Day Count"
-  location         :
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=dDBTlNAAAAAJ&hl=en"
+  # googlescholar    : "https://scholar.google.com/citations?user=dDBTlNAAAAAJ&hl=en"
+  googlescholar    :
   # email            : "jcui7@stevens.edu"
   email            : 
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
@@ -97,7 +98,8 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : jcui1224
+  # github           : jcui1224
+  github           :
   google_plus      :
   keybase          :
   instagram        :
