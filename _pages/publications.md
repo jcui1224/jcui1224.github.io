@@ -17,9 +17,8 @@ author_profile: true
 
 ## Conference
 
-<br>
 
-<img align="top" width="600" src="/images/github-nips-2023.jpg" />
+<img align="top" width="600" src="/images/github-nips-2023-2.png" />
 
 [**Learning Energy-based Model via Dual-MCMC Teaching**](https://jcui1224.github.io/dual-MCMC-proj/)
 <br>
