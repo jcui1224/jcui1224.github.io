@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student in Computer Science at Stevens Institute of Technology, advised by [Dr. Tian Han](https://hthth0801.github.io/).
+I am a PhD student at Stevens Institute of Technology, advised by [Dr. Tian Han](https://hthth0801.github.io/).
 
-My research interest lies in ***Generative Probabilistic Model***, such as ***Energy-based Model***, ***Generator Model***, ***Diffusion Probabilistic Model***. My works focus on developing the generative probabilistic framework for **modelling data distribution** and ***learning (hierarchical) interpretable representations***. 
+My research interest lies in ***Generative Probabilistic Model***, such as *Energy-based Model*, *Generator Model*, *Diffusion Probabilistic Model*. My works focus on developing the generative probabilistic framework for ***modelling data distribution*** and ***learning (hierarchical) interpretable representation***. 
 
 
 Please don't hesitate to contact me for collaboration😊.
