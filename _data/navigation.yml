@@ -3,8 +3,8 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "CV"
-    url: /nips2023-sub.pdf
+#  - title: "CV"
+#    url: /nips2023-sub.pdf
 #   - title: "Talks"
 #     url: /talks/    
 

@@ -83,7 +83,7 @@ author:
   name             : "Jiali Cui"
   avatar           : "Jcui-head2.jpg"
   bio              : "PhD student"
-  location         : "Hoboken, NJ"
+  location         : "Philadelphia, PA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=dDBTlNAAAAAJ&hl=en"
@@ -115,6 +115,7 @@ author:
   xing             :
   youtube          :
   wikipedia        :
+  resume           : "_pages/nips2023-sub.pdf"
 
 
 # Reading Files
