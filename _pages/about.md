@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student (2021 Fall - now) at Stevens Institute of Technology, advised by [Prof. Tian Han](https://hthth0801.github.io/).
+I am a PhD student at Stevens Institute of Technology, advised by [Prof. Tian Han](https://hthth0801.github.io/).
 
 My research goal is to develop models that can *understand the world in an efficient and effective way*,
 > *What I cannot create, I do not understand.*
