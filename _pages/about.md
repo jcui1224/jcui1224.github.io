@@ -15,7 +15,7 @@ My research goal is to develop models that can *understand the world in an effic
 >
 > -- <cite>Richard Feynman</cite>
 
-such that my main works focus on **probabilistic generative modeling** and learning **interpretable (hierarchical) data representations** in computer vision. 
+such that my main works focus on **probabilistic generative modeling** and learning **interpretable (hierarchical) data representations** in computer vision.
 
 Please don't hesitate to contact me for collaboration😊. 
 
