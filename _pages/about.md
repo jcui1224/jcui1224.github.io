@@ -8,10 +8,14 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at Stevens Institute of Technology, advised by [Dr. Tian Han](https://hthth0801.github.io/).
+I am a PhD student (2021 Fall - now) at Stevens Institute of Technology, advised by [Prof. Tian Han](https://hthth0801.github.io/).
 
-My research interest lies in ***Generative Probabilistic Model***, such as *Energy-based Model*, *Generator Model*, *Diffusion Probabilistic Model*. My works focus on developing the generative probabilistic framework for ***modelling data distribution*** and ***learning (hierarchical) interpretable representation***. 
+My research goal is to develop models that can *understand the world in an efficient and effective way*,
+> *What I cannot create, I do not understand.*
+>
+> -- <cite>Richard Feynman</cite>
 
+such that my main works focus on **probabilistic generative modeling** and learning **interpretable (hierarchical) data representations**. 
 
 Please don't hesitate to contact me for collaboration😊. 
 
@@ -19,11 +23,11 @@ Please don't hesitate to contact me for collaboration😊.
 
 ---
 
-### Reviewers
+### Service
 
-* 2022, ECCV, AAAI
-* 2023, ICCV, AAAI, CVPR, NeurIPS
-* 2024, AAAI, ICLR, CVPR, ICML, ECCV
+* Reviewer of 2022, ECCV, AAAI
+* Reviewer of 2023, ICCV, AAAI, CVPR, NeurIPS
+* Reviewer of 2024, AAAI, ICLR, CVPR, ICML, ECCV
 
 ---
 
