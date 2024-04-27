@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<img align="top" width="600" src="/images/feynman.jpg" />
+
 > *What I cannot create, I do not understand.*
 >
 > -- <cite>Richard Feynman</cite>
