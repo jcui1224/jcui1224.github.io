@@ -15,6 +15,10 @@ redirect_from:
 
 I am a PhD student at Stevens Institute of Technology (2021 - now), advised by [Prof. Tian Han](https://hthth0801.github.io/). My research goal is to develop models that can *understand the world in an **efficient** and **effective** way* 😊, such that my main works focus on **probabilistic generative modeling** and learning **interpretable (hierarchical) data representations** in computer vision and machine learning.
 
+My Ph.D research works can be **summarized** into
+
+<img align="top" width="1000" src="/images/My-Research.jpg" />
+
 Please don't hesitate to contact me for collaboration😊. 
 
 [Email 📧](mailto:jcui7@stevens.edu),    [Resume 📁](https://jcui1224.github.io/files/Jiali_Cui_Resume.pdf),    [Google Scholar 🎓](https://scholar.google.com/citations?hl=en&user=dDBTlNAAAAAJ)
