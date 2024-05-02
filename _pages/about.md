@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<img align="top" width="600" src="/images/feynman.jpg" />
+<img align="top" width="500" src="/images/feynman.jpg" />
 
 > *What I cannot create, I do not understand.*
 >
@@ -26,7 +26,13 @@ Please don't hesitate to contact me for collaboration😊.
 ---
 
 # Publication
-<img align="top" width="600" src="/images/github-nips-2023-2.png" />
+<img align="top" width="800" src="/images/github-icml-2024-1.png" />
+
+[***ICML, 2024***] **Learning Latent Space Hierarchical EBM Diffusion Models**
+<br>
+**Jiali Cui**, Tian Han <br> 
+
+<img align="top" width="800" src="/images/github-nips-2023-2.png" />
 
 [***NeurIPS, 2023***] [**Learning Energy-based Model via Dual-MCMC Teaching**](https://jcui1224.github.io/dual-MCMC-proj/)
 <br>
@@ -34,7 +40,7 @@ Please don't hesitate to contact me for collaboration😊.
 
 ---
 
-<img align="top" width="600" src="/images/github-iccv-2023.png" />
+<img align="top" width="800" src="/images/github-iccv-2023.png" />
 
 [***ICCV, 2023***] [**Learning Hierarchical Features with Joint Latent Space Energy-Based Prior**](https://jcui1224.github.io/hierarchical-representation-ebm-proj/)
 <br>
@@ -42,7 +48,7 @@ Please don't hesitate to contact me for collaboration😊.
 
 ---
 
-<img align="top" width="600" src="/images/github-cvpr-2023.jpg" />
+<img align="top" width="800" src="/images/github-cvpr-2023.jpg" />
 
 [***CVPR, 2023***] [**Learning Joint Latent Space EBM Prior Model for Multi-layer Generator**](https://jcui1224.github.io/hierarchical-joint-ebm-proj/)
 <br>
