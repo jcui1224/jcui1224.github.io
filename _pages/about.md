@@ -27,7 +27,7 @@ Please don't hesitate to contact me for collaboration 😊.
 
 # Publication
 <img align="top" width="800" src="/images/github-icml-2024-1.png" />
-https://jcui1224.github.io/diffusion-hierarchical-ebm-proj/
+
 [***ICML, 2024***] [**Learning Latent Space Hierarchical EBM Diffusion Models**](https://jcui1224.github.io/diffusion-hierarchical-ebm-proj/)
 <br>
 **Jiali Cui**, Tian Han <br> 
