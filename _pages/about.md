@@ -65,7 +65,7 @@ Bo Pang, Erik Nijkamp, **Jiali Cui**, Tian Han, Ying Nian Wu <br>
 
 * Reviewer of 2022, ECCV, AAAI
 * Reviewer of 2023, ICCV, AAAI, CVPR, NeurIPS
-* Reviewer of 2024, AAAI, ICLR, CVPR, ICML, ECCV
+* Reviewer of 2024, AAAI, ICLR, CVPR, ICML, ECCV, NeurIPS
 
 
 ### Education
