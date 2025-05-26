@@ -15,9 +15,9 @@ redirect_from:
 
 I am a PhD student at Stevens Institute of Technology (2021 - now), advised by [Prof. Tian Han](https://hthth0801.github.io/). My research goal is to develop models that can *understand the world in an **efficient** and **effective** way*, such that my main works focus on **probabilistic generative modeling** and learning **interpretable (hierarchical) data representations** in computer vision and machine learning.
 
-My Ph.D research works (until now) can be **summarized** into
+<!--My Ph.D research works (until now) can be **summarized** into -->
 
-<img align="top" width="1000" src="/images/My-Research.jpg" />
+<!--<img align="top" width="1000" src="/images/My-Research.jpg" />-->
 
 Please don't hesitate to contact me for collaboration 😊. 
 
@@ -66,13 +66,6 @@ Bo Pang, Erik Nijkamp, **Jiali Cui**, Tian Han, Ying Nian Wu <br>
 *Workshop on I Can’t Believe It’s Not Better (ICBINB) @ NeurIPS*, 2020
 
 ---
-
-### Service
-
-* Reviewer of 2022, ECCV, AAAI
-* Reviewer of 2023, ICCV, AAAI, CVPR, NeurIPS
-* Reviewer of 2024, AAAI, ICLR, CVPR, ICML, ECCV, NeurIPS
-
 
 ### Education
 
