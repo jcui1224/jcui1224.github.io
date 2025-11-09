@@ -26,7 +26,16 @@ Please don't hesitate to contact me for collaboration 😊.
 ---
 
 # Publication
-<img align="top" width="800" src="/images/eccv24.jpg" />
+<p float="left">
+<img align="top" width="400" src="/images/github-aaai-2026-1.jpg" />
+<img align="top" width="400" src="/images/github-aaai-2026-2.jpg" />
+</p>
+
+[***AAAI, 2026***] ShaLa: Multimodal Shared Latent Space Modelling
+<br>
+**Jiali Cui**, Yan-Ying Chen, Yanxia Zhang, Matthew Klenk <br> 
+
+<img align="top" height="200" width="800" src="/images/eccv24.jpg" />
 
 [***ECCV, 2024***] Learning Multimodal Latent Generative Models with Energy-Based Prior
 <br>
