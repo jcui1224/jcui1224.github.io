@@ -27,11 +27,7 @@ Please don't hesitate to contact me for collaboration 😊.
 
 # Publication
 <!-- AAAI 2026 -->
-<p align="left">
-<img align="top" width="395" src="/images/github-aaai-2026-1.jpg" />
-<img align="top" width="395" src="/images/github-aaai-2026-2.jpg" />
-</p>
-<img align="top" width="800" src="/images/github-aaai-2026-4.png" />
+<img align="top" width="800" src="/images/github-aaai-2026-3.jpg" />
 
 [***AAAI, 2026***] [**ShaLa: Multimodal Shared Latent Space Modelling**](https://jcui1224.github.io/shared-latent-space-proj/)
 <br>
