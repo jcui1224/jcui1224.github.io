@@ -31,7 +31,8 @@ I am a Senior Research Scientist at Futurewei Technology. I received my PhD and 
 <!-- AAAI 2026 -->
 <img align="top" width="800" src="/images/github-aaai-2026-3.jpg" />
 
-[***AAAI, 2026***] [**ShaLa: Multimodal Shared Latent Space Modelling**](https://jcui1224.github.io/shared-latent-space-proj/)
+<!--[***AAAI, 2026***] [**ShaLa: Multimodal Shared Latent Space Modelling**](https://jcui1224.github.io/shared-latent-space-proj/)-->
+[***AAAI, 2026***] **ShaLa: Multimodal Shared Latent Space Modelling**
 <br>
 **Jiali Cui**, Yan-Ying Chen, Yanxia Zhang, Matthew Klenk <br> 
 <br>
@@ -39,7 +40,7 @@ I am a Senior Research Scientist at Futurewei Technology. I received my PhD and 
 <!-- ECCV 2024 -->
 <img align="top" height="200" width="800" src="/images/eccv24.jpg" />
 
-[***ECCV, 2024***] Learning Multimodal Latent Generative Models with Energy-Based Prior
+[***ECCV, 2024***] **Learning Multimodal Latent Generative Models with Energy-Based Prior**
 <br>
 Shiyu Yuan, **Jiali Cui**, Hanao Li, Tian Han <br> 
 <br>
