@@ -13,19 +13,21 @@ redirect_from:
 >
 > -- <cite>Richard Feynman</cite>
 
-I am a PhD student at Stevens Institute of Technology (2021 - now), advised by [Prof. Tian Han](https://hthth0801.github.io/). My research goal is to develop models that can *understand the world in an **efficient** and **effective** way*, such that my main works focus on **probabilistic generative modeling** and learning **interpretable (hierarchical) data representations** in computer vision and machine learning.
-
-<!--My Ph.D research works (until now) can be **summarized** into -->
-
-<!--<img align="top" width="1000" src="/images/My-Research.jpg" />-->
-
-Please don't hesitate to contact me for collaboration 😊. 
+I am a Senior Research Scientist at Futurewei Technology. I received my PhD and MS in Computer Science from Stevens Institute of Technology, and my BS in Computer Science from Harbin Institute of Technology. My research interests are broadly in artificial intelligence, with a primary focus on probabilistic generative models that can **understand the world**. I have also completed internships as a Research Scientist at Toyota Research Institute and Futurewei Technology.
 
 [Email 📧](mailto:jcui7@stevens.edu),    [Resume 📁](https://jcui1224.github.io/files/Jiali_Cui_Resume.pdf),    [Google Scholar 🎓](https://scholar.google.com/citations?hl=en&user=dDBTlNAAAAAJ)
 
 ---
 
 # Publication
+<!-- TMLR 2026 -->
+<img align="top" width="800" src="/images/github-tmlr-2026-nce.png" />
+
+[***TMLR, 2026***] **Learning Multi-stage Energy-based Prior for Hierarchical Generative Models**
+<br>
+**Jiali Cui**, Tian Han <br> 
+<br>
+
 <!-- AAAI 2026 -->
 <img align="top" width="800" src="/images/github-aaai-2026-3.jpg" />
 
