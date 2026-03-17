@@ -24,5 +24,5 @@ redirect_from:
 
 * B.S. Harbin Institute of Technology, 2015 - 2019
 * M.S. Stevens Institute of Technology, 2019 - 2021
-* Ph.D Stevens Institute of Technology, 2022 - now
+* Ph.D Stevens Institute of Technology, 2021 - 2026
 
