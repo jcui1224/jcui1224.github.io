@@ -35,7 +35,7 @@ I am a Senior Research Scientist at Futurewei Technology. I received my PhD and 
     <div class="pub-thumb"><img src="/images/github-tmlr-2026-nce.png" alt="TMLR 2026"></div>
     <div class="pub-body">
       <span class="pub-venue">TMLR 2026</span>
-      <div class="pub-title">Learning Multi-stage Energy-based Prior for Hierarchical Generative Models</div>
+      <div class="pub-title"><a href="https://github.com/jcui1224/multi-stage-nce-ebm" target="_blank">Learning Multi-stage Energy-based Prior for Hierarchical Generative Models</a></div>
       <div class="pub-authors"><strong>Jiali Cui</strong>, Tian Han</div>
     </div>
   </div>
