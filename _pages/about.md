@@ -35,7 +35,7 @@ I am a Senior Research Scientist at Futurewei Technology. I received my PhD and 
     <div class="pub-thumb"><img src="/images/github-tmlr-2026-nce.png" alt="TMLR 2026"></div>
     <div class="pub-body">
       <span class="pub-venue">TMLR 2026</span>
-      <div class="pub-title"><a href="https://github.com/jcui1224/multi-stage-nce-ebm" target="_blank">Learning Multi-stage Energy-based Prior for Hierarchical Generative Models</a></div>
+      <div class="pub-title"><a href="https://jcui1224.github.io/multi-stage-nce-ebm/" target="_blank">Learning Multi-stage Energy-based Prior for Hierarchical Generative Models</a></div>
       <div class="pub-authors"><strong>Jiali Cui</strong>, Tian Han</div>
     </div>
   </div>
@@ -44,7 +44,7 @@ I am a Senior Research Scientist at Futurewei Technology. I received my PhD and 
     <div class="pub-thumb"><img src="/images/github-aaai-2026-3.jpg" alt="AAAI 2026"></div>
     <div class="pub-body">
       <span class="pub-venue">AAAI 2026</span>
-      <div class="pub-title">ShaLa: Multimodal Shared Latent Space Modelling</div>
+      <div class="pub-title"><a href="https://jcui1224.github.io/shared-latent-space-proj/" target="_blank">ShaLa: Multimodal Shared Latent Space Modelling</a></div>
       <div class="pub-authors"><strong>Jiali Cui</strong>, Yan-Ying Chen, Yanxia Zhang, Matthew Klenk</div>
     </div>
   </div>
