@@ -62,8 +62,8 @@
 
     .avatar {
       display: block;
-      width: 120px;
-      height: 120px;
+      width: 148px;
+      height: 148px;
       border-radius: 50%;
       object-fit: cover;
       object-position: center top;
@@ -135,6 +135,9 @@
       color: var(--muted);
       padding: 0.22rem 0;
       border-bottom: 1px dashed var(--border);
+    }
+    .interest-list li.no-wrap {
+      white-space: nowrap;
     }
     .interest-list li:last-child { border-bottom: none; }
 
@@ -313,6 +316,12 @@
         </a>
       </li>
       <li>
+        <a href="mailto:jcui2@futurewei.com">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 7 10-7"/></svg>
+          jcui2@futurewei.com
+        </a>
+      </li>
+      <li>
         <a href="/files/Jiali_Cui_Resume.pdf" target="_blank">
           <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14,2 14,8 20,8"/><line x1="16" y1="13" x2="8" y2="13"/><line x1="16" y1="17" x2="8" y2="17"/></svg>
           Resume / CV
@@ -341,7 +350,7 @@
     <div class="sb-section">
       <div class="sb-label">Research</div>
       <ul class="interest-list">
-        <li>Latent variable generative models</li>
+        <li class="no-wrap">Latent variable generative models</li>
         <li>Energy-based models</li>
         <li>Diffusion models</li>
         <li>Multimodal learning</li>
