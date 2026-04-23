@@ -74,7 +74,7 @@
 
     .feynman-board {
       display: block;
-      width: min(100%, 760px);
+      width: min(100%, 620px);
       margin: 0 auto 1.1rem;
       border-radius: 4px;
     }
@@ -121,6 +121,40 @@
       flex-shrink: 0;
       opacity: 0.55;
     }
+
+    .email-dropdown {
+      width: 100%;
+    }
+    .email-dropdown summary {
+      list-style: none;
+      display: flex;
+      align-items: center;
+      gap: 0.5rem;
+      font-size: 0.775rem;
+      color: var(--muted);
+      cursor: pointer;
+      user-select: none;
+    }
+    .email-dropdown summary:hover { color: var(--navy); }
+    .email-dropdown summary::-webkit-details-marker { display: none; }
+    .email-caret {
+      margin-left: auto;
+      font-size: 0.68rem;
+      opacity: 0.65;
+      transition: transform 0.15s ease;
+    }
+    .email-dropdown[open] .email-caret { transform: rotate(180deg); }
+    .email-list {
+      list-style: none;
+      margin-top: 0.35rem;
+      margin-left: 1.1rem;
+    }
+    .email-list li { margin-bottom: 0.25rem; }
+    .email-list a {
+      font-size: 0.75rem;
+      color: var(--muted);
+    }
+    .email-list a:hover { color: var(--navy); }
 
     /* Sidebar sections */
     .sb-section { margin-bottom: 1.6rem; }
@@ -318,16 +352,17 @@
 
     <ul class="sb-links">
       <li>
-        <a href="mailto:jcui7@stevens.edu">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 7 10-7"/></svg>
-          jcui7@stevens.edu
-        </a>
-      </li>
-      <li>
-        <a href="mailto:jcui2@futurewei.com">
-          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 7 10-7"/></svg>
-          jcui2@futurewei.com
-        </a>
+        <details class="email-dropdown">
+          <summary>
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><rect x="2" y="4" width="20" height="16" rx="2"/><path d="m2 7 10 7 10-7"/></svg>
+            Email
+            <span class="email-caret">▾</span>
+          </summary>
+          <ul class="email-list">
+            <li><a href="mailto:jcui7@stevens.edu">jcui7@stevens.edu</a></li>
+            <li><a href="mailto:jcui2@futurewei.com">jcui2@futurewei.com</a></li>
+          </ul>
+        </details>
       </li>
       <li>
         <a href="/files/Jiali_Cui_Resume.pdf" target="_blank">
