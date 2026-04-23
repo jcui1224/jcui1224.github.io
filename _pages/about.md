@@ -23,6 +23,15 @@ I am a Senior Research Scientist at Futurewei Technology. I received my PhD and 
 <div class="pub-list">
 
   <div class="pub-card">
+    <div class="pub-thumb"><img src="/images/TMLR2026_Futurewei.png" alt="TMLR 2026"></div>
+    <div class="pub-body">
+      <span class="pub-venue">TMLR 2026</span>
+      <div class="pub-title"><a href="https://jcui1224.github.io/dual-mcmc-multimodal-ebm-page/" target="_blank">Learning Multimodal Energy-based Model with MultimodalVariational Auto-Encoder via MCMC Revision</a></div>
+      <div class="pub-authors"><strong>Jiali Cui</strong>, Zhiqiang Lao, Heather Yu</div>
+    </div>
+  </div>
+
+  <div class="pub-card">
     <div class="pub-thumb"><img src="/images/github-tmlr-2026-nce.png" alt="TMLR 2026"></div>
     <div class="pub-body">
       <span class="pub-venue">TMLR 2026</span>
