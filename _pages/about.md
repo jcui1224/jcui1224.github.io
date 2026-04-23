@@ -1,93 +1,95 @@
 ---
 permalink: /
-title: "About Me"
-excerpt: "About me"
-author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
----
-<img align="top" width="500" src="/images/feynman.jpg" />
-
-> *What I cannot create, I do not understand.*
->
-> -- <cite>Richard Feynman</cite>
-
-I am a Senior Research Scientist at Futurewei Technology. I received my PhD and MS in Computer Science from Stevens Institute of Technology, and my BS in Computer Science from Harbin Institute of Technology. My research interests are broadly in artificial intelligence, with a primary focus on probabilistic generative models that can **understand the world**. I have also completed internships as a Research Scientist at Toyota Research Institute and Futurewei Technology.
-
-[Email 📧](mailto:jcui7@stevens.edu),    [Resume 📁](https://jcui1224.github.io/files/Jiali_Cui_Resume.pdf),    [Google Scholar 🎓](https://scholar.google.com/citations?hl=en&user=dDBTlNAAAAAJ)
-
+layout: home
 ---
 
-# Publication
-<!-- TMLR 2026 -->
-<img align="top" width="800" src="/images/github-tmlr-2026-nce.png" />
+<section class="bio-section">
 
-[***TMLR, 2026***] **Learning Multi-stage Energy-based Prior for Hierarchical Generative Models**
-<br>
-**Jiali Cui**, Tian Han <br> 
-<br>
+<div class="bio-quote">
+  What I cannot create, I do not understand.
+  <cite>— Richard Feynman</cite>
+</div>
 
-<!-- AAAI 2026 -->
-<img align="top" width="800" src="/images/github-aaai-2026-3.jpg" />
+<p class="bio-text">
+I am a Senior Research Scientist at <strong>Futurewei Technology</strong>. I received my PhD and MS in Computer Science from Stevens Institute of Technology, and my BS in Computer Science from Harbin Institute of Technology. My research interests are broadly in artificial intelligence, with a primary focus on probabilistic generative models that can <strong>understand the world</strong>. I have also completed internships as a Research Scientist at Toyota Research Institute and Futurewei Technology.
+</p>
 
-<!--[***AAAI, 2026***] [**ShaLa: Multimodal Shared Latent Space Modelling**](https://jcui1224.github.io/shared-latent-space-proj/)-->
-[***AAAI, 2026***] **ShaLa: Multimodal Shared Latent Space Modelling**
-<br>
-**Jiali Cui**, Yan-Ying Chen, Yanxia Zhang, Matthew Klenk <br> 
-<br>
+</section>
 
-<!-- ECCV 2024 -->
-<img align="top" height="200" width="800" src="/images/eccv24.jpg" />
+<h2 class="section-head">Publications</h2>
 
-[***ECCV, 2024***] **Learning Multimodal Latent Generative Models with Energy-Based Prior**
-<br>
-Shiyu Yuan, **Jiali Cui**, Hanao Li, Tian Han <br> 
-<br>
+<div class="pub-list">
 
-<!-- ICML 2024 -->
-<img align="top" width="800" src="/images/github-icml-2024-1.png" />
+  <div class="pub-card">
+    <div class="pub-thumb"><img src="/images/github-tmlr-2026-nce.png" alt="TMLR 2026"></div>
+    <div class="pub-body">
+      <span class="pub-venue">TMLR 2026</span>
+      <div class="pub-title">Learning Multi-stage Energy-based Prior for Hierarchical Generative Models</div>
+      <div class="pub-authors"><strong>Jiali Cui</strong>, Tian Han</div>
+    </div>
+  </div>
 
-[***ICML, 2024***] [**Learning Latent Space Hierarchical EBM Diffusion Models**](https://jcui1224.github.io/diffusion-hierarchical-ebm-proj/)
-<br>
-**Jiali Cui**, Tian Han <br> 
-<br>
+  <div class="pub-card">
+    <div class="pub-thumb"><img src="/images/github-aaai-2026-3.jpg" alt="AAAI 2026"></div>
+    <div class="pub-body">
+      <span class="pub-venue">AAAI 2026</span>
+      <div class="pub-title">ShaLa: Multimodal Shared Latent Space Modelling</div>
+      <div class="pub-authors"><strong>Jiali Cui</strong>, Yan-Ying Chen, Yanxia Zhang, Matthew Klenk</div>
+    </div>
+  </div>
 
-<!-- NIPS 2023 -->
-<img align="top" width="800" src="/images/github-nips-2023-2.png" />
+  <div class="pub-card">
+    <div class="pub-thumb"><img src="/images/eccv24.jpg" alt="ECCV 2024"></div>
+    <div class="pub-body">
+      <span class="pub-venue">ECCV 2024</span>
+      <div class="pub-title">Learning Multimodal Latent Generative Models with Energy-Based Prior</div>
+      <div class="pub-authors">Shiyu Yuan, <strong>Jiali Cui</strong>, Hanao Li, Tian Han</div>
+    </div>
+  </div>
 
-[***NeurIPS, 2023***] [**Learning Energy-based Model via Dual-MCMC Teaching**](https://jcui1224.github.io/dual-MCMC-proj/)
-<br>
-**Jiali Cui**, Tian Han <br> 
-<br>
+  <div class="pub-card">
+    <div class="pub-thumb"><img src="/images/github-icml-2024-1.png" alt="ICML 2024"></div>
+    <div class="pub-body">
+      <span class="pub-venue">ICML 2024</span>
+      <div class="pub-title"><a href="https://jcui1224.github.io/diffusion-hierarchical-ebm-proj/" target="_blank">Learning Latent Space Hierarchical EBM Diffusion Models</a></div>
+      <div class="pub-authors"><strong>Jiali Cui</strong>, Tian Han</div>
+    </div>
+  </div>
 
-<!-- ICCV 2023 -->
-<img align="top" width="800" src="/images/github-iccv-2023.png" />
+  <div class="pub-card">
+    <div class="pub-thumb"><img src="/images/github-nips-2023-2.png" alt="NeurIPS 2023"></div>
+    <div class="pub-body">
+      <span class="pub-venue">NeurIPS 2023</span>
+      <div class="pub-title"><a href="https://jcui1224.github.io/dual-MCMC-proj/" target="_blank">Learning Energy-based Model via Dual-MCMC Teaching</a></div>
+      <div class="pub-authors"><strong>Jiali Cui</strong>, Tian Han</div>
+    </div>
+  </div>
 
-[***ICCV, 2023***] [**Learning Hierarchical Features with Joint Latent Space Energy-Based Prior**](https://jcui1224.github.io/hierarchical-representation-ebm-proj/)
-<br>
-**Jiali Cui**, Ying Nian Wu, Tian Han <br> 
-<br>
+  <div class="pub-card">
+    <div class="pub-thumb"><img src="/images/github-iccv-2023.png" alt="ICCV 2023"></div>
+    <div class="pub-body">
+      <span class="pub-venue">ICCV 2023</span>
+      <div class="pub-title"><a href="https://jcui1224.github.io/hierarchical-representation-ebm-proj/" target="_blank">Learning Hierarchical Features with Joint Latent Space Energy-Based Prior</a></div>
+      <div class="pub-authors"><strong>Jiali Cui</strong>, Ying Nian Wu, Tian Han</div>
+    </div>
+  </div>
 
-<!-- CVPR 2023 -->
-<img align="top" width="800" src="/images/github-cvpr-2023.jpg" />
+  <div class="pub-card">
+    <div class="pub-thumb"><img src="/images/github-cvpr-2023.jpg" alt="CVPR 2023"></div>
+    <div class="pub-body">
+      <span class="pub-venue">CVPR 2023</span>
+      <div class="pub-title"><a href="https://jcui1224.github.io/hierarchical-joint-ebm-proj/" target="_blank">Learning Joint Latent Space EBM Prior Model for Multi-layer Generator</a></div>
+      <div class="pub-authors"><strong>Jiali Cui</strong>, Ying Nian Wu, Tian Han</div>
+    </div>
+  </div>
 
-[***CVPR, 2023***] [**Learning Joint Latent Space EBM Prior Model for Multi-layer Generator**](https://jcui1224.github.io/hierarchical-joint-ebm-proj/)
-<br>
-**Jiali Cui**, Ying Nian Wu, Tian Han <br> 
-<br>
+  <div class="pub-card">
+    <div class="pub-thumb"><img src="/images/github-nips-2023.jpg" alt="NeurIPS 2020 Workshop"></div>
+    <div class="pub-body">
+      <span class="pub-venue workshop">NeurIPS 2020 Workshop</span>
+      <div class="pub-title"><a href="https://arxiv.org/pdf/2010.09359.pdf" target="_blank">Semi-supervised Learning by Latent Space Energy-Based Model of Symbol-Vector Coupling</a></div>
+      <div class="pub-authors">Bo Pang, Erik Nijkamp, <strong>Jiali Cui</strong>, Tian Han, Ying Nian Wu</div>
+    </div>
+  </div>
 
-<!-- NIPS 2020 -->
-[***NeurIPS, 2020***] [**Semi-supervised Learning by Latent Space Energy-Based Model of Symbol-Vector Coupling**](https://arxiv.org/pdf/2010.09359.pdf)
-<br>
-Bo Pang, Erik Nijkamp, **Jiali Cui**, Tian Han, Ying Nian Wu <br> 
-*Workshop on I Can’t Believe It’s Not Better (ICBINB) @ NeurIPS*, 2020
-<br>
-
----
-
-### Education
-
-* B.S. Harbin Institute of Technology (Harbin, China), 2015 - 2019
-* M.S. Stevens Institute of Technology (Hoboken, NJ), 2019 - 2021
-* Ph.D Stevens Institute of Technology (Hoboken, NJ), 2021 - Now
+</div>
