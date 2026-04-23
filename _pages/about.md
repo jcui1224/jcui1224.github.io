@@ -13,7 +13,7 @@ layout: home
 </div>
 
 <p class="bio-text">
-I am a Senior Research Scientist at <strong>Futurewei Technology</strong>. I received my PhD and MS in Computer Science from Stevens Institute of Technology, and my BS in Computer Science from Harbin Institute of Technology. My research interests are broadly in artificial intelligence, with a primary focus on probabilistic generative models that can <strong>understand the world</strong>. I have also completed internships as a Research Scientist at Toyota Research Institute and Futurewei Technology.
+I am a Senior Research Scientist at Futurewei Technology. I received my PhD and MS in Computer Science from Stevens Institute of Technology, and my BS in Computer Science from Harbin Institute of Technology. My research interests are broadly in artificial intelligence, with a primary focus on probabilistic generative models that can <strong>understand the world</strong>. I have also completed internships as a Research Scientist at Toyota Research Institute and Futurewei Technology.
 </p>
 
 </section>
